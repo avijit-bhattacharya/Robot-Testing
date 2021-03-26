@@ -1,0 +1,54 @@
+1616320662114	geckodriver	INFO	Listening on 127.0.0.1:61254
+1616320665150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eavbhat\\AppData\\Local\\Temp\\rust_mozprofileK6mjRm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616320668089	Marionette	INFO	Listening on port 61262
+1616320668347	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:11601:17
+sendMessageToTab/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:11601:17
+sendMessageToTab/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:11601:17
+sendMessageToTab/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:11601:17
+sendMessageToTab/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:11601:17
+sendMessageToTab/<@moz-extension://dac245b4-4dd0-4839-ab49-0af20c4ab6d8/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_6PLu4riE-2dcDQ5QPzuCrl_1JQZAazd43aQw_AQJYoY.MCC6N0i77U9I5vT__eAxvlhWqW3_GnTjR2969C9__zc.js?qq857f, line 9: TypeError: id is undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1616320683623	Marionette	INFO	Stopped listening on port 61262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,180 @@
+1616389433935	geckodriver	INFO	Listening on 127.0.0.1:60279
+1616389436927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eavbhat\\AppData\\Local\\Temp\\rust_mozprofilewiD6Zc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616389440180	Marionette	INFO	Listening on port 60288
+1616389440625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1616389451924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: error
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_OrderHistorySearch/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Dotdigitalgroup_Sms/js/telephoneValidatorAddress
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Company/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_CompanyCredit/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/view/utils/dom-observer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/view/utils/bindings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: spectrum
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: tinycolor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/storage/local
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:11601:17
+sendMessageToTab/<@moz-extension://e1df35f9-0b47-445e-8e3a-e0469bf287c3/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+[Child 44756, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 44756, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 44756, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 44756, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1616389912931	Marionette	INFO	Stopped listening on port 60288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

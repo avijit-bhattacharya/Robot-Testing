@@ -1,0 +1,189 @@
+1616389152387	geckodriver	INFO	Listening on 127.0.0.1:59722
+1616389155419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eavbhat\\AppData\\Local\\Temp\\rust_mozprofileP1AOTX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616389158562	Marionette	INFO	Listening on port 59732
+1616389158630	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1616389174185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Company/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_CompanyCredit/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_OrderHistorySearch/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Dotdigitalgroup_Sms/js/telephoneValidatorAddress
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210318163135/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ba58c53-1548-42a8-a6fa-279297a8880e/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616389266194	Marionette	INFO	Stopped listening on port 59732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
